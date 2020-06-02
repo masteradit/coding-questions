@@ -9,3 +9,5 @@ def sumOfN(num):
     
 num = int(input('Enter a number'))
 print(sumOfN(num))
+
+# Source of question and explaination: https://youtu.be/AqHoXqOgctU
