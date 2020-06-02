@@ -1,4 +1,4 @@
-# Sum of N numbers using recursion
+# Sum of first N natural numbers using recursion
 
 def sumOfN(num):
 
