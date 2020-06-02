@@ -1,4 +1,4 @@
-# Fast power of a number using recursion
+# Fast power of a natural number using recursion
 
 def fastPower(num, i):
     if i == 0:
