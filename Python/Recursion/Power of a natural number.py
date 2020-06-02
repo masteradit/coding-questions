@@ -1,4 +1,4 @@
-# Power of a number using recursion
+# Power of a natural number using recursion
 
 def power(num, i):
     
