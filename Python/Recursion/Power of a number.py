@@ -10,3 +10,5 @@ def power(num, i):
 num = int(input('Enter a number'))
 i = int(input('Enter power'))
 print(power(num, i))
+
+# Source of question and explaination: https://youtu.be/AqHoXqOgctU
